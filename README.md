@@ -2,6 +2,6 @@
 
 This stage   i learning:
 
--Git initialization
--Git Add and Commit changes
--Shoe commit log.
+- Git initialization
+- Git Add and Commit changes
+- Show commit log.
